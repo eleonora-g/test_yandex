@@ -2,24 +2,24 @@
 
 1.	Скачайте приложение Яндекс Лавка на IOS или Android либо зайдите на сайт **lavka.yandex.ru**
 
- <center><img src="image/interface.png" alt="drawing" width="600"/></center>
+ <center><img src="../image/interface.png" alt="drawing" width="600"/></center>
 
 2.	Зарегистрируйтесь или войдите в существующий аккаунт.
 3.	Перейдите в категорию «Заморозка» —> «Мороженое».
  
- <center><img src="image/interface_freeze.png" alt="drawing" width="600"/></center>
+ <center><img src="../image/interface_freeze.png" alt="drawing" width="600"/></center>
 
 4.	Выберите понравившиеся позиции и добавьте их в корзину.
  
- <center><img src="image/bag.png" alt="drawing" width="400"/></center>
+ <center><img src="../image/bag.png" alt="drawing" width="400"/></center>
  
 5.	Оформите заказ, указав адрес доставки, удобное время и дополнительную необходимую информацию.
 
- <center><img src="image/address.png" alt="drawing" width="600"/></center>
+ <center><img src="../image/address.png" alt="drawing" width="600"/></center>
  
 6.	Оплатите заказ онлайн сохранённой картой или другим способом.
  
- <center><img src="image/payment.png" alt="drawing" width="600"/></center>
+ <center><img src="../image/payment.png" alt="drawing" width="600"/></center>
 
 7.	Отслеживайте статус заказа через приложение или с помощью голосового помощника, привязанного к аккаунту, спросив «Алиса, где мой заказ?»
 
@@ -28,11 +28,11 @@
 ### Выбор мороженного:
 1.	В Лавке представлен широкий выбор различных видов и брендов мороженого, включая товары под собственным брендом «Из лавки».
 
- <center><img src="image/brand_icecream.png" alt="drawing" width="600"/></center>
+ <center><img src="../image/brand_icecream.png" alt="drawing" width="600"/></center>
  
 2.	Ознакомьтесь с описанием, составом и ценой продукта, выбирайте по своим вкусам и предпочтениям.
 
- <center><img src="image/param_icecream.png" alt="drawing" width="600"/></center>
+ <center><img src="../image/param_icecream.png" alt="drawing" width="600"/></center>
  
 3.	Выбирайте мороженое с натуральным составом: молоко, сливки, фрукты и натуральные ароматизаторы — без лишних добавок.
 
